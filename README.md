@@ -1,6 +1,7 @@
 # redux-saga-cart
 A fully-functional shopping cart built with Redux Saga using Yield according to Daniel Stern course "Redux Saga" https://www.pluralsight.com/courses/redux-saga
 Github repository is here: https://github.com/danielstern/redux-saga-cart
+Github repository for server: https://github.com/danielstern/redux-saga-shopping-cart-server
 
 ## BRANCH - begin
 The branch has all the scaffolding of the application, but no sagas. *Add sagas for the app to work.*
